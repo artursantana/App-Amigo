@@ -2,8 +2,8 @@
 import * as S from './style'
 import React from 'react'
 
-import White from '../white/White'
-import Purple from '../purple/Purple'
+import White from '../../component/white/White'
+import Purple from '../../component/purple/Purple'
 
 const Main = () => {
   return (

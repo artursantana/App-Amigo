@@ -1,10 +1,11 @@
 'use client'
-import Main from '../component/main/Main'
+
+import Main from '../pages/main/Main'
 
 export default function Home() {
   return (
-    <h1>
+    <div className='divMain'>
       <Main/>
-    </h1>
+    </div>
   );
 }
